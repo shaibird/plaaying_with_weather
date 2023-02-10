@@ -1,0 +1,5 @@
+Front end notes
+
+Map with points. defaults to current weather data unless a specific time is stated. 
+map points are different colors depending on percieved condition
+each point is clickable and shows the current and forecasted weather. 

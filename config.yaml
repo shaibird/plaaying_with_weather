@@ -1,0 +1,129 @@
+crags:
+  Stone Fort / Little Rock City:
+    lat: 35.247716
+    lon: -85.21987
+    State: TN
+    Country: USA
+  Dogwood:
+    lat: 35.498646
+    lon: -85.081101
+    State: TN
+    Country: USA
+  Apartment Boulders:
+    lat: 35.119645
+    lon: -85.319962
+    State: TN
+    Country: USA
+  Upper Middle Creek:
+    lat: 35.147895
+    lon: -85.352076
+    State: TN
+    Country: USA
+  Conner Creek:
+    lat: 35.165989
+    lon: -85.379355
+    State: TN
+    Country: USA
+  Laurel Snow Pocket Wilderness:
+    lat: 35.528425
+    lon: -85.022223
+    State: TN
+    Country: USA
+  Cumberland Boulders / Pep boys:
+    lat: 35.26351
+    lon: -85.189802
+    State: TN
+    Country: USA
+  Suck Creek:
+    lat: 35.145568
+    lon: -85.388239
+    State: TN
+    Country: USA
+  Lower Middle Creek:
+    lat: 35.122742
+    lon: -85.3725
+    State: TN
+    Country: USA
+  Hell's Kitchen:
+    lat: 35.475767
+    lon: -85.107419
+    State: TN
+    Country: USA
+  Zahnd:
+    lat: 34.652713
+    lon: -85.472353
+    State: GA
+    Country: USA
+  Morgan Creek:
+    lat: 35.538501
+    lon: -85.037523
+    State: TN
+    Country: USA
+  Caney Fork:
+    lat: 35.845558
+    lon: -85.250274
+    State: TN
+    Country: USA
+  Rocktown:
+    lat: 34.658958
+    lon: -85.389721
+    State: GA
+    Country: USA
+  The Obed:
+    lat: 36.103276
+    lon: -84.713592
+    State: TN
+    Country: USA
+  Horse Pens 40:
+    lat: 33.923137
+    lon: -86.307194
+    State: AL
+    Country: USA
+  Hospital Boulders:
+    lat: 34.076257
+    lon: -86.018652
+    State: AL
+    Country: USA
+  Rumbling Bald:
+    lat: 35.448934
+    lon: 82.217037
+    State: NC
+    Country: USA
+  Moores Wall:
+    lat: 36.399441
+    lon: 80.290565
+    State: NC
+    Country: USA
+  Linville Gorge:
+    lat: 35.904931
+    lon: 81.895244
+    State: NC
+    Country: USA
+  Grayson Highlands:
+    lat: 36.625068
+    lon: 81.498931
+    State: VA
+    Country: USA
+  New River Gorge:
+    lat: 37.877465
+    lon: 81.019192
+    State: WV
+    Country: USA
+  Yosemite Valley:
+    lat: 37.744697
+    lon: 119.591128
+    State: CA
+    Country: USA
+  Leavenworth:
+    lat: 47.587289
+    lon: 120.687862
+    State: WA
+    Country: USA
+  Fontainebleau:
+    lat: 48.392466
+    lon: 2.559068
+    # State:
+    Country: FRAN
+
+credentials:
+  api_key: "c53fd11bac5961f04aa910c0692a7086"
