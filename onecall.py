@@ -3,7 +3,7 @@ import json
 import datetime, pytz
 import pandas as pd
 
-key = '5cc8f9a3748e9d010417fea83ff5784f'
+key = 
 Location = 'Stone Fort'
 lat = '35.247716'
 lon = '-85.21987'
